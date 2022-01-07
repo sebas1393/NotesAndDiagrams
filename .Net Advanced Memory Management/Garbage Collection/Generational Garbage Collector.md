@@ -1,4 +1,6 @@
-﻿# Generational Garbage Collection
+﻿[Back to Menu](../Menu.md)
+
+# Generational Garbage Collection
 Makes partitions to the Heap memory on generational Heaps.
 
 The garbage collector takes the objects greater than 85K and places onto the Large Objects Heap (LOH).
@@ -12,3 +14,5 @@ The garbage collector takes the objects greater than 85K and places onto the Lar
     Very Infrequent Collection.
 - ### Large Object Heap:
     Very Infrequent Collection and no Compaction. (only have on Gen Collection).
+
+[Back to Menu](../Menu.md)

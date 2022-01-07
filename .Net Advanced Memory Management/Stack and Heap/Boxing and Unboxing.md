@@ -1,5 +1,9 @@
 # Boxing and Unboxing
+**Boxing / Unboxing** is a process that lets you use value types and reference 
+types interchangeably in your code.
 
+Each boxing operation creates **one new object** on the heap.
+A boxed object occupies more memory than the original value type.
 
 ## Boxing:
 Takes a value on the **Stack** and stores it as an object on the **Heap**. Boxing happens when you assign a value type

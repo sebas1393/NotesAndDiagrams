@@ -1,3 +1,5 @@
+[Back to Menu](../Menu.md)
+
 #Garbage Collection Process in **_.NET_**:
 
 ### Mark
@@ -15,3 +17,4 @@ Reallocate objects at the spaces that the removed objects left.
 ## Solution: 
 Generational garbage collector.
 
+[Back to Menu](../Menu.md)

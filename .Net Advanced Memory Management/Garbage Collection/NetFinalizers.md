@@ -1,3 +1,5 @@
+[Back to Menu](../Menu.md)
+
 # Finalizers in .Net
 Finalizers are class methods that are called when objects are about to be cleaned up by the `Garbage Collector`.
 
@@ -14,3 +16,5 @@ into gen:1.
 - Objects with finalizers end up in **generation 1** and sometimes in **_generation2_**.
 - When a process ends, some finalizers **might not** get called because if the host process exits, anything remaining in
 the finalization queue **After 4 seconds** is discarded.
+
+[Back to Menu](../Menu.md)

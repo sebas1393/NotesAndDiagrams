@@ -1,4 +1,6 @@
-﻿# Garbage Collector Optimizations:
+﻿[Back to menu](../../Menu.md)
+
+# Garbage Collector Optimizations:
 ## Resume
 - **Limit** the number of objects you create.
 - Allocate, use, and discard **small** objects as fast as possible.
@@ -154,3 +156,4 @@ The Garbage Collector assume 90% of all small objects are short-lived, and all l
           ...
           UseThisList(list);
 
+[Back to menu](../../Menu.md)

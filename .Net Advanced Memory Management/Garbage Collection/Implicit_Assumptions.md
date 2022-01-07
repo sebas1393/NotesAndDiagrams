@@ -1,3 +1,5 @@
+[Back to Menu](../Menu.md)
+
 # Implicit Assumptions
 
 - Objects are either **short-lived** or **long-lived**.
@@ -7,3 +9,5 @@
 - All **large** objects (85k+) are long-lived.
 
 - **_Do not go_** against this assumptions.
+
+[Back to Menu](../Menu.md)
