@@ -1,4 +1,6 @@
-﻿#Dependency Inversion Principle
+﻿[<< Back to menu](SOLID.md)
+
+#Dependency Inversion Principle
 
 Avoid dependency of high level logic from low level logic.
 
@@ -166,3 +168,4 @@ You can abstract the class that represents stores or some kind of data access to
             }
         }
     }
+[<< Back to menu](SOLID.md)

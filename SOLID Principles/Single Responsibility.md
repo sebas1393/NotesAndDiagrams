@@ -1,4 +1,6 @@
-﻿# Single Responsibility Principle
+﻿[<< Back to menu](SOLID.md)
+
+# Single Responsibility Principle
 
 - A class should only have one reason to change.
 - Separation of concerns; different classes handling different, independent task/problems.
@@ -37,3 +39,5 @@ instead of the method inside document class you can create a new class Printer s
             // You should put some stuff to print here.
         }
     }
+
+[<< Back to menu](SOLID.md)

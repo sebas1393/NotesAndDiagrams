@@ -1,4 +1,6 @@
-﻿# Open-Closed Principle
+﻿[<< Back to menu](SOLID.md)
+
+# Open-Closed Principle
 Classes should be opened for extension, but closed for modification. So the classes shouldn't be modified each time you have a new functionality, but yo can extend that class and add the new func to the existing code, so you are not affecting the existing code .
 
 ##¿How is it?
@@ -22,3 +24,5 @@ if there is an existing class `Electric Engine` and the specialist need to add a
             // Do some stuff to add mode to the computer hear.
         }
     }
+
+[<< Back to menu](SOLID.md)

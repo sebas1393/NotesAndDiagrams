@@ -1,4 +1,5 @@
-﻿# Liskov Substitution Principle
+﻿[<< Back to menu](SOLID.md)
+# Liskov Substitution Principle
 You should be able to substitute a base type for a subtype.
 
 # ¿How is it?
@@ -76,3 +77,4 @@ with their corresponding behaviour.
     }
     }
 
+[<< Back to menu](SOLID.md)
